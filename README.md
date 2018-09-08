@@ -6,20 +6,6 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 
 ![alt text](https://github.com/petrechenko/fdf/blob/master/Screen%20Shot%202018-09-08%20at%2011.56.46%20AM.png)
 
-$>cat42.fdf
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
-0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0  
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0  
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0  
-0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0  
-0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0  
-0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0  
-0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0  
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
-$>
-
 Each number corresponds to a point in space:
 • The horizontal position corresponds to its axis. 
 • The vertical position corresponds to its ordinate. 
